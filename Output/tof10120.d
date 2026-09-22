@@ -1,0 +1,16 @@
+..\output\tof10120.o: ..\Driver\TOF10120.c
+..\output\tof10120.o: ..\Driver\TOF10120.h
+..\output\tof10120.o: ..\System\sys\sys.h
+..\output\tof10120.o: ..\User\stm32f10x.h
+..\output\tof10120.o: ..\CMSIS\core_cm3.h
+..\output\tof10120.o: D:\KEIL5\ARM\ARMCC\Bin\..\include\stdint.h
+..\output\tof10120.o: ..\User\system_stm32f10x.h
+..\output\tof10120.o: ..\User\stm32f10x_conf.h
+..\output\tof10120.o: ..\Libraries\inc\stm32f10x_dbgmcu.h
+..\output\tof10120.o: ..\User\stm32f10x.h
+..\output\tof10120.o: ..\Libraries\inc\stm32f10x_gpio.h
+..\output\tof10120.o: ..\Libraries\inc\stm32f10x_rcc.h
+..\output\tof10120.o: ..\Libraries\inc\stm32f10x_tim.h
+..\output\tof10120.o: ..\Libraries\inc\stm32f10x_usart.h
+..\output\tof10120.o: ..\Libraries\inc\misc.h
+..\output\tof10120.o: ..\System\delay\delay.h

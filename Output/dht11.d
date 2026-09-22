@@ -1,0 +1,16 @@
+..\output\dht11.o: ..\Driver\dht11.c
+..\output\dht11.o: ..\Driver\dht11.h
+..\output\dht11.o: ..\System\sys\sys.h
+..\output\dht11.o: ..\User\stm32f10x.h
+..\output\dht11.o: ..\CMSIS\core_cm3.h
+..\output\dht11.o: D:\KEIL5\ARM\ARMCC\Bin\..\include\stdint.h
+..\output\dht11.o: ..\User\system_stm32f10x.h
+..\output\dht11.o: ..\User\stm32f10x_conf.h
+..\output\dht11.o: ..\Libraries\inc\stm32f10x_dbgmcu.h
+..\output\dht11.o: ..\User\stm32f10x.h
+..\output\dht11.o: ..\Libraries\inc\stm32f10x_gpio.h
+..\output\dht11.o: ..\Libraries\inc\stm32f10x_rcc.h
+..\output\dht11.o: ..\Libraries\inc\stm32f10x_tim.h
+..\output\dht11.o: ..\Libraries\inc\stm32f10x_usart.h
+..\output\dht11.o: ..\Libraries\inc\misc.h
+..\output\dht11.o: ..\System\delay\delay.h
